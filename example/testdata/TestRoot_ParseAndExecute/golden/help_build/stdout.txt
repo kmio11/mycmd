@@ -1,0 +1,14 @@
+
+Usage:
+
+  example build --out output [--race] <packages>
+
+Flags:
+
+  -o, --out string   write the resulting executable to the named output file
+      --race         enable data race detection
+
+Arguments:
+
+  packages   the packages named by the import paths
+

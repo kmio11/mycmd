@@ -1,0 +1,11 @@
+
+Usage:
+
+  example mod edit [-fmt|-print|-json]
+
+Flags:
+
+      --fmt     reformats the file without making other changes
+      --print   prints the file in its text format
+      --json    prints the file in JSON format
+

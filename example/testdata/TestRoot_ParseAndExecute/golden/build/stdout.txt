@@ -1,0 +1,1 @@
+Build successful. package=<packages> out=<output>

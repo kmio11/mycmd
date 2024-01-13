@@ -1,0 +1,11 @@
+
+Usage:
+
+  example mod <command> [flags] [arguments]
+
+Commands:
+
+  edit   edit a file from tools or scripts
+
+Use 'example mod help <command>' for more details on a command.
+
